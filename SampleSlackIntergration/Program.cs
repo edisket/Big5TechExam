@@ -71,7 +71,7 @@ namespace SampleSlackIntergration
                 client.DefaultRequestHeaders.Accept.Clear();
                 client.DefaultRequestHeaders.Accept.Add(
                    new MediaTypeWithQualityHeaderValue("application/json"));
-                client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", "xoxb-1536282398881-2385208040001-AgmUPhkovQvIIzmxwBO60Ord");
+                client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", "xoxb-1536282398881-2385208040001-jId7VjEQuv3VtcFaWpA6D1DB");
 
                 var resp = await JoinChannel();
                 var content = await resp.Content.ReadAsStringAsync();
