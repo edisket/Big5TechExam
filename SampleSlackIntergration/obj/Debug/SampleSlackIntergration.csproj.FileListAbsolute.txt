@@ -1,0 +1,12 @@
+C:\Users\Edison\source\repos\SampleSlackIntergration\bin\Debug\SampleSlackIntergration.exe.config
+C:\Users\Edison\source\repos\SampleSlackIntergration\bin\Debug\SampleSlackIntergration.exe
+C:\Users\Edison\source\repos\SampleSlackIntergration\bin\Debug\SampleSlackIntergration.pdb
+C:\Users\Edison\source\repos\SampleSlackIntergration\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Edison\source\repos\SampleSlackIntergration\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Edison\source\repos\SampleSlackIntergration\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Edison\source\repos\SampleSlackIntergration\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Edison\source\repos\SampleSlackIntergration\obj\Debug\SampleSlackIntergration.csprojAssemblyReference.cache
+C:\Users\Edison\source\repos\SampleSlackIntergration\obj\Debug\SampleSlackIntergration.csproj.CoreCompileInputs.cache
+C:\Users\Edison\source\repos\SampleSlackIntergration\obj\Debug\SampleSlackIntergration.csproj.CopyComplete
+C:\Users\Edison\source\repos\SampleSlackIntergration\obj\Debug\SampleSlackIntergration.exe
+C:\Users\Edison\source\repos\SampleSlackIntergration\obj\Debug\SampleSlackIntergration.pdb
